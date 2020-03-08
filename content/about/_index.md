@@ -25,4 +25,4 @@ PDF 和 TXT，图片因数量较多以及公开重要程度较次之暂不考虑
 部分可以，遵循 [CC-BY](https://baike.baidu.com/item/知识共享)；有一些要征询作者的同意，特别是涉及收录他人的创作内容的部分。
 
 ## 网站源码
-[https://git.lug.ustc.edu.cn/zhaofeng-shu33/file-archive](https://git.lug.ustc.edu.cn/zhaofeng-shu33/personal-archive)
+[https://git.lug.ustc.edu.cn/zhaofeng-shu33/personal-archive](https://git.lug.ustc.edu.cn/zhaofeng-shu33/personal-archive)
