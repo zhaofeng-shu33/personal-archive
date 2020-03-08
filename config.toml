@@ -1,0 +1,21 @@
+theme = "tale"
+baseURL = "http://file-archive.leidenschaft.cn/"
+languageCode = "en-us"
+title = "资料归档"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    title = "关于"
+    url = "/about/"
+    weight = 0
+  [[menu.main]]
+    identifier = "posts"
+    name = "日志"
+    title = "日志"
+    url = "/"
+    weight = 0
+
+[Params]
+  css = ["style.css"]
