@@ -3,4 +3,4 @@ job1:
     - website
   script:
     - hugo
-    - ossutil64 -i $AKID -k $AKST -e http://oss-cn-shenzhen.aliyuncs.com cp -r -f public oss://file-arxiv
+    - ossutil64 -i $AKID -k $AKST -e http://oss-cn-shenzhen.aliyuncs.com cp -r -f public oss://personal-arxiv
