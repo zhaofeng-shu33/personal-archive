@@ -1,5 +1,5 @@
 theme = "tale"
-baseURL = "http://file-archive.leidenschaft.cn/"
+baseURL = "http://personal-archive.leidenschaft.cn/"
 languageCode = "en-us"
 title = "资料归档"
 
