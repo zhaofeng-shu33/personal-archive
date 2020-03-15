@@ -52,3 +52,8 @@ draft: false
 * [65](http://media.leidenschaft.cn/scan/junior_three/65.pdf)
 * [66](http://media.leidenschaft.cn/scan/junior_three/66.pdf)
 * [67](http://media.leidenschaft.cn/scan/junior_three/67.pdf)
+
+Extras:
+
+* [1](http://media.leidenschaft.cn/scan/八年级日记/1.pdf)
+* [2](http://media.leidenschaft.cn/scan/八年级日记/2.pdf)
