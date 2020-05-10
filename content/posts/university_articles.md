@@ -4,7 +4,8 @@ date: 2014-12-24T00:03:46+08:00
 draft: false
 ---
 
-* [2013年秋季學期明清史課](http://media.leidenschaft.cn/university_articles/书评展示.ppt)
+* [2013年秋季學期明清史課課堂展示](http://media.leidenschaft.cn/university_articles/书评展示.ppt)
+* [2013年秋季學期明清史課報告](http://media.leidenschaft.cn/university_articles/这将是谁人之天下书评.doc)
 * [2014年暑假/刘博远思想](http://media.leidenschaft.cn/university_articles/刘博远思想.docx)
 * [2014年春季学期/从十七年文学看文学工具论的时代特征](http://media.leidenschaft.cn/university_articles/从十七年文学看文学工具论的时代特征.doc)
 * [2018年寒假/高中物理力学辅导](http://media.leidenschaft.cn/volunteer/return_teaching/high_school_physics_force_analysis.pdf)
