@@ -13,4 +13,5 @@ draft: false
 * [2014年寒假社会实践报告（张宇）](http://media.leidenschaft.cn/university_articles/宽容的基础是理解)
 * [2014年暑假/刘博远思想](http://media.leidenschaft.cn/university_articles/刘博远思想.docx)
 * [2014年春季学期/从十七年文学看文学工具论的时代特征](http://media.leidenschaft.cn/university_articles/从十七年文学看文学工具论的时代特征.doc)
+* [2016年秋季学期/文化素质教育讲座课程报告](http://media.leidenschaft.cn/university_articles/文化素质教育讲座课程报告.docx)
 * [2018年寒假/高中物理力学辅导](http://media.leidenschaft.cn/volunteer/return_teaching/high_school_physics_force_analysis.pdf)
