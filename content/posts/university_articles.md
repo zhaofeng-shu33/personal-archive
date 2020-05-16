@@ -21,6 +21,7 @@ draft: false
 ## Other years
 * [2014年秋季学期/British Society and Culture Class Game Report](http://media.leidenschaft.cn/university_articles/Report_on_four_board_games_played_by_members_of_Group_Three.doc)
 * [2015年春季学期/历史文献课课堂展示](http://media.leidenschaft.cn/university_articles/形而上者谓之道课堂展示.ppt)
+* [2015年春季学期/有机化学实验课总结](http://media.leidenschaft.cn/university_articles/有机化学实验课总结.docx)
 * [2015年秋季学期/现代生物学导论PPT作业](http://media.leidenschaft.cn/university_articles/EvolutionFinalPaper.pptx)
 * [2015年秋季学期/现代生物学导论PPT Transcript](http://media.leidenschaft.cn/university_articles/EvolutionFinalPresentationTranscript.docx)
 * [2016年秋季学期/文化素质教育讲座课程报告](http://media.leidenschaft.cn/university_articles/文化素质教育讲座课程报告.docx)
