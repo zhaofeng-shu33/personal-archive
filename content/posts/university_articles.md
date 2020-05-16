@@ -15,6 +15,7 @@ draft: false
 * [2014年寒假社会实践报告（张宇）](http://media.leidenschaft.cn/university_articles/宽容的基础是理解)
 * [2014年春季学期/孟子義理在明代的實踐](http://media.leidenschaft.cn/university_articles/孟子義理在明代的實踐.doc)
 * [2014年春季学期/从十七年文学看文学工具论的时代特征](http://media.leidenschaft.cn/university_articles/从十七年文学看文学工具论的时代特征.doc)
+* [2014年春季学期/大一體育總結.doc](http://media.leidenschaft.cn/university_articles/大一體育總結.doc)
 * [2014年暑假/Summer Camp Place Show PPT](http://media.leidenschaft.cn/university_articles/Find_the_place_where_my_favorite_English_writer.ppt)
 * [2014年暑假/Summer Camp Group PPT](http://media.leidenschaft.cn/university_articles/drama_play_of_midsummer_night.ppt)
 
