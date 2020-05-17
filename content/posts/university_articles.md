@@ -26,4 +26,5 @@ draft: false
 * [2015年秋季学期/现代生物学导论PPT作业](http://media.leidenschaft.cn/university_articles/EvolutionFinalPaper.pptx)
 * [2015年秋季学期/现代生物学导论PPT Transcript](http://media.leidenschaft.cn/university_articles/EvolutionFinalPresentationTranscript.docx)
 * [2016年秋季学期/文化素质教育讲座课程报告](http://media.leidenschaft.cn/university_articles/文化素质教育讲座课程报告.docx)
+* [2016年秋季学期/SMT工艺课堂展示](http://media.leidenschaft.cn/university_articles/SMTPresentation.pptx)
 * [2018年寒假/高中物理力学辅导](http://media.leidenschaft.cn/volunteer/return_teaching/high_school_physics_force_analysis.pdf)
