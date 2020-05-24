@@ -11,8 +11,6 @@ draft: false
 * [2013年秋季学期思修课期末论文](http://media.leidenschaft.cn/university_articles/我心中的法律精神_论文.docx)
 * [2013年秋季学期英语阅读课期末论文](http://media.leidenschaft.cn/university_articles/Student_Attitude_Towards_GaoKao_English.doc)
 * [2014年寒假社会实践问卷](http://media.leidenschaft.cn/university_articles/新農村建設.doc)
-* [2014年寒假社会实践报告（刘涛）](http://media.leidenschaft.cn/university_articles/农民的奴性.docx)
-* [2014年寒假社会实践报告（张宇）](http://media.leidenschaft.cn/university_articles/宽容的基础是理解)
 * [2014年春季学期/孟子義理在明代的實踐](http://media.leidenschaft.cn/university_articles/孟子義理在明代的實踐.doc)
 * [2014年春季学期/从十七年文学看文学工具论的时代特征](http://media.leidenschaft.cn/university_articles/从十七年文学看文学工具论的时代特征.doc)
 * [2014年春季学期/大一體育總結.doc](http://media.leidenschaft.cn/university_articles/大一體育總結.doc)
@@ -20,7 +18,7 @@ draft: false
 * [2014年暑假/Summer Camp Group PPT](http://media.leidenschaft.cn/university_articles/drama_play_of_midsummer_night.ppt)
 
 ## Other years
-* [2014年秋季学期/British Society and Culture Class Game Report](http://media.leidenschaft.cn/university_articles/Report_on_four_board_games_played_by_members_of_Group_Three.doc)
+* [2014年秋季学期/British Society and Culture Class Game Report(group work)](http://media.leidenschaft.cn/university_articles/Report_on_four_board_games_played_by_members_of_Group_Three.doc)
 * [2015年春季学期/历史文献课课堂展示](http://media.leidenschaft.cn/university_articles/形而上者谓之道课堂展示.ppt)
 * [2015年春季学期/有机化学实验课总结](http://media.leidenschaft.cn/university_articles/有机化学实验课总结.docx)
 * [2015年秋季学期/现代生物学导论PPT作业](http://media.leidenschaft.cn/university_articles/EvolutionFinalPaper.pptx)
