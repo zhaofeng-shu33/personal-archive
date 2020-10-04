@@ -23,6 +23,7 @@ draft: false
 * [2015年春季学期/有机化学实验课总结](http://media.leidenschaft.cn/university_articles/有机化学实验课总结.docx)
 * [2015年秋季学期/现代生物学导论PPT作业](http://media.leidenschaft.cn/university_articles/EvolutionFinalPaper.pptx)
 * [2015年秋季学期/现代生物学导论PPT Transcript](http://media.leidenschaft.cn/university_articles/EvolutionFinalPresentationTranscript.docx)
+* [2015年秋季学期/SRT项目展示](http://media.leidenschaft.cn/university_articles/CALL.pptx)
 * [2016年秋季学期/文化素质教育讲座课程报告](http://media.leidenschaft.cn/university_articles/文化素质教育讲座课程报告.docx)
 * [2016年秋季学期/智能机器人报告](http://media.leidenschaft.cn/university_articles/SpiderPresentation.ppt)
 * [2016年秋季学期/SMT工艺课堂展示](http://media.leidenschaft.cn/university_articles/SMTPresentation.pptx)
