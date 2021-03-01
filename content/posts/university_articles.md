@@ -16,6 +16,7 @@ draft: false
 * [2014年春季学期/大一體育總結.doc](http://media.leidenschaft.cn/university_articles/大一體育總結.doc)
 * [2014年暑假/Summer Camp Place Show PPT](http://media.leidenschaft.cn/university_articles/Find_the_place_where_my_favorite_English_writer.ppt)
 * [2014年暑假/Summer Camp Group PPT](http://media.leidenschaft.cn/university_articles/drama_play_of_midsummer_night.ppt)
+* [2014年暑假/共产主义原理學習體會](http://media.leidenschaft.cn/university_articles/共产主义原理學習體會_學員_趙豐.doc)
 
 ## Other years
 * [2014年秋季学期/British Society and Culture Class Game Report(group work)](http://media.leidenschaft.cn/university_articles/Report_on_four_board_games_played_by_members_of_Group_Three.doc)
