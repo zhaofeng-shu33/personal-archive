@@ -18,13 +18,18 @@ draft: false
 * [2014年暑假/Summer Camp Group PPT](http://media.leidenschaft.cn/university_articles/drama_play_of_midsummer_night.ppt)
 * [2014年暑假/共产主义原理學習體會](http://media.leidenschaft.cn/university_articles/共产主义原理學習體會_學員_趙豐.doc)
 
-## Other years
+## Second years
 * [2014年秋季学期/British Society and Culture Class Game Report(group work)](http://media.leidenschaft.cn/university_articles/Report_on_four_board_games_played_by_members_of_Group_Three.doc)
+* [2014年秋季学期/Das Kommunistische Manifest Kapitel Eins](http://media.leidenschaft.cn/university_articles/kommunistischesmanifest_pre.ppt)
 * [2015年春季学期/历史文献课课堂展示](http://media.leidenschaft.cn/university_articles/形而上者谓之道课堂展示.ppt)
 * [2015年春季学期/有机化学实验课总结](http://media.leidenschaft.cn/university_articles/有机化学实验课总结.docx)
+
+## Third years
 * [2015年秋季学期/现代生物学导论PPT作业](http://media.leidenschaft.cn/university_articles/EvolutionFinalPaper.pptx)
 * [2015年秋季学期/现代生物学导论PPT Transcript](http://media.leidenschaft.cn/university_articles/EvolutionFinalPresentationTranscript.docx)
 * [2015年秋季学期/SRT项目展示](http://media.leidenschaft.cn/university_articles/CALL.pptx)
+
+## Fourth year
 * [2016年秋季学期/文化素质教育讲座课程报告](http://media.leidenschaft.cn/university_articles/文化素质教育讲座课程报告.docx)
 * [2016年秋季学期/智能机器人报告](http://media.leidenschaft.cn/university_articles/SpiderPresentation.ppt)
 * [2016年秋季学期/SMT工艺课堂展示](http://media.leidenschaft.cn/university_articles/SMTPresentation.pptx)
